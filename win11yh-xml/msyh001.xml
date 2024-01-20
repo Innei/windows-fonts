@@ -1,0 +1,104 @@
+﻿<?xml version="1.0"?>
+<Fonts>
+<Font>
+  <!-- ****************** Font(0) ****************** -->
+
+
+  <Header
+    Ascender="1060"
+    Descender="-340"
+    TypoAscender="860"
+    TypoDescender="-140"
+    WinAscender="1060"
+    WinDescender="340"
+    AverageCharWidth="469"
+    Codepage1="00040001"
+    Codepage2="00000000" />
+  <Name>
+
+    <!-- Copyright -->
+    <T n="3,1,0409,0">© 2022  Microsoft Corporation. All Rights Reserved. Portions © 2022 Beijing Founder Electronics Co. Ltd. All Rights Reserved.</T>
+    <T n="3,1,0804,0">© 2022 微软公司版权所有 © 2022 北京北大方正电子有限公司部分版权所有</T>
+
+    <!-- Family -->
+    <T n="3,1,0409,1">Microsoft YaHei</T>
+    <T n="3,1,0804,1">微软雅黑</T>
+
+    <!-- Subfamily -->
+    <T n="3,1,0403,2">Normal</T>
+    <T n="3,1,0405,2">obyčejné</T>
+    <T n="3,1,0406,2">Normal</T>
+    <T n="3,1,0407,2">Standard</T>
+    <T n="3,1,0408,2">Κανονικά</T>
+    <T n="3,1,0409,2">Regular</T>
+    <T n="3,1,040a,2">Normal</T>
+    <T n="3,1,040b,2">Normaali</T>
+    <T n="3,1,040c,2">Normal</T>
+    <T n="3,1,040e,2">Normál</T>
+    <T n="3,1,0410,2">Normale</T>
+    <T n="3,1,0413,2">Standaard</T>
+    <T n="3,1,0414,2">Normal</T>
+    <T n="3,1,0415,2">Normalny</T>
+    <T n="3,1,0416,2">Normal</T>
+    <T n="3,1,0419,2">Обычный</T>
+    <T n="3,1,041b,2">Normálne</T>
+    <T n="3,1,041d,2">Normal</T>
+    <T n="3,1,041f,2">Normal</T>
+    <T n="3,1,0424,2">Navadno</T>
+    <T n="3,1,042d,2">Arrunta</T>
+    <T n="3,1,0804,2">Regular</T>
+    <T n="3,1,080a,2">Normal</T>
+    <T n="3,1,0816,2">Normal</T>
+    <T n="3,1,0c0a,2">Normal</T>
+    <T n="3,1,0c0c,2">Normal</T>
+
+    <!-- UniqueIdentifier -->
+    <T n="3,1,0409,3">Microsoft YaHei Regular</T>
+    <T n="3,1,0804,3">微软雅黑 Regular</T>
+
+    <!-- FullName -->
+    <T n="3,1,0409,4">Microsoft YaHei</T>
+    <T n="3,1,0804,4">微软雅黑</T>
+
+    <!-- Version -->
+    <T n="3,1,0409,5">Version 6.30</T>
+    <T n="3,1,0804,5">Version 6.30</T>
+
+    <!-- PostscriptName -->
+    <T n="3,1,0409,6">MicrosoftYaHei</T>
+    <T n="3,1,0804,6">MicrosoftYaHeiRegular</T>
+
+    <!-- Trademark -->
+    <T n="3,1,0409,7">Microsoft YaHei is a trademark of the Microsoft group of companies.</T>
+    <T n="3,1,0804,7">Microsoft YaHei is a trademark of the Microsoft group of companies.</T>
+
+    <!-- Manufacturer -->
+    <T n="3,1,0409,8">Microsoft Corporation</T>
+    <T n="3,1,0804,8">Microsoft Corporation</T>
+
+    <!-- Designer -->
+    <T n="3,1,0409,9">Founder</T>
+    <T n="3,1,0804,9">北京北大方正电子有限公司</T>
+
+    <!-- Description -->
+    <T n="3,1,0409,10">The font glyphs are certified compliant with China standard GB18030-2000 with the font name Founder Lan Ting Hei.  Microsoft Licensed the font glyph from Beijing Founder  Electronics Co. Ltd.&#13;&#10;本字库字形从北京北大方正电子有限公司授权。本字库字形 以字库名方正兰亭黑通过中国标准符合性检测，符合中国 GB18030-2000标准。</T>
+    <T n="3,1,0804,10">The font glyphs are certified compliant with China standard GB18030-2000 with the font name Founder Lan Ting Hei.  Microsoft Licensed the font glyph from Beijing Founder  Electronics Co. Ltd.&#13;&#10;本字库字形从北京北大方正电子有限公司授权。本字库字形 以字库名方正兰亭黑通过中国标准符合性检测，符合中国 GB18030-2000标准。</T>
+
+    <!-- VendorURL -->
+    <T n="3,1,0409,11">http://www.microsoft.com/typography</T>
+    <T n="3,1,0804,11">http://www.microsoft.com/typography</T>
+
+    <!-- DesignerURL -->
+    <T n="3,1,0409,12">http://www.founder.com.cn/cn</T>
+    <T n="3,1,0804,12">http://www.founder.com.cn/cn</T>
+
+    <!-- LicenseDescription -->
+    <T n="3,1,0409,13">Microsoft supplied font. You may use this font to create, display and print content as permitted by the license terms, or terms of use, of the Microsoft product, service or content in which this font was included. You may only (i) embed this font in content as permitted by the embedding restrictions included in this font; and (ii) temporarily download this font to a printer or other output device to help print content. Any other use is prohibited.</T>
+    <T n="3,1,0804,13">Microsoft supplied font. You may use this font to create, display and print content as permitted by the license terms, or terms of use, of the Microsoft product, service or content in which this font was included. You may only (i) embed this font in content as permitted by the embedding restrictions included in this font; and (ii) temporarily download this font to a printer or other output device to help print content. Any other use is prohibited.</T>
+
+    <!-- LicenseInfo -->
+    <T n="3,1,0409,14">http://www.microsoft.com/typography/fonts</T>
+
+  </Name>
+</Font>
+</Fonts>
